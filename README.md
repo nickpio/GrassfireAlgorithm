@@ -1,5 +1,5 @@
 # GrassfireAlgorithm
-Implementation of Grassfire Algorithm in Python. Done for school assignment.
+Implementation of Grassfire Algorithm in Python.
 ------------
 Created with Python, matplotlib and NumPy
 
