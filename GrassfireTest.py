@@ -6,7 +6,7 @@
 # ---------------------------------------
 
 #Using the class from the algorithm file
-from COMP361GrassfireAlgorithm import Grassfire
+from GrassfireAlgorithm import Grassfire
 #Importing necessary libraries, I'll be using the matplotlib library to create a GUI involving the 2D grid as shown on the handout
 import numpy
 import matplotlib.pyplot as plot
